@@ -5,9 +5,9 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# Introduction to GitHub
+# Crash course on creating Linux containers using Docker on Windows11
 
-_Getting started with Docker in Windows11 in less than an hour._
+_Tooling and Setup._
 
 <!-- 
   <<< Author notes: Start of the course >>> 
