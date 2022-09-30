@@ -20,7 +20,13 @@ _Getting started with Docker in Windows11 in less than an hour._
 
 <!--step0
 
-People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better. GitHub Skills’ “Introduction to GitHub” course guides you through everything you need to start contributing in less than an hour.
+Tooling you will need in Windows11 Environment
+1) Open CMD {WIN+R} and input wsl --install
+  Note: Depending on internet connection this may take a few minutes
+2) Enable WSL2.0 (You can read more about this in Section 5.0 <<enter hyperlink>>)
+Summary: WSL 2 is a new version of the Windows architecture that powers the Windows Subsystem for Linux to run ELF64 Linux binaries on Windows  
+Read more about WSL 2.0 here: https://devblogs.microsoft.com/commandline/announcing-wsl-2/
+
 
 - **Who is this for**: New developers, new GitHub users, and students.
 - **What you'll learn**: We'll introduce repositories, branches, commits, and pull requests.
