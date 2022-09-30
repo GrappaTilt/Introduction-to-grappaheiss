@@ -7,7 +7,7 @@
 
 # Introduction to GitHub
 
-_Get started using GitHub in less than an hour._
+_Getting started with Docker in Windows11 in less than an hour._
 
 <!-- 
   <<< Author notes: Start of the course >>> 
